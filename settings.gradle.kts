@@ -1,1 +1,1 @@
-rootProject.name = "GPLib"
+rootProject.name = "gplib"

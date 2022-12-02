@@ -1,6 +1,6 @@
 package testing.a.thing.gplib
 
-class Library {
+class GPLibrary {
     fun someLibraryMethod(): Boolean {
         return true
     }
