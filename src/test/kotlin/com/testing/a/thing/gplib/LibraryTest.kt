@@ -1,4 +1,4 @@
-package gplib
+package com.testing.a.thing.gplib
 
 import testing.`this`.gplib.Library
 import kotlin.test.Test

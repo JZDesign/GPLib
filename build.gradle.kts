@@ -5,7 +5,7 @@ plugins {
     kotlin("jvm") version "1.6.21"
 }
 
-group = "testing.a.thing"
+group = "com.testing.a.thing.gplib"
 version = "0.0.1"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
