@@ -1,4 +1,4 @@
-package come.testing.a.thing.gplib
+package com.testing.a.thing.gplib
 
 class GPLibrary {
     fun someLibraryMethod(): Boolean {
