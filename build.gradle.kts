@@ -6,6 +6,8 @@ plugins {
     `java-library`
 }
 
+group = "testing.a.thing"
+
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()

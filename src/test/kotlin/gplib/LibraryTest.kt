@@ -1,5 +1,6 @@
 package gplib
 
+import testing.`this`.gplib.Library
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertTrue
